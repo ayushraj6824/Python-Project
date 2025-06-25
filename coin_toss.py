@@ -13,4 +13,5 @@ while True:
 
 # This code simulates a coin toss game where the user can choose to toss the coin or exit the game.
 # It uses the random module to randomly select between 'Heads' and 'Tails'. # The game continues until the user decides to stop by entering 'no'.
-# The input is validated to ensure the user enters either 'yes' or 'no'.    
+# The input is validated to ensure the user enters either 'yes' or 'no'.  
+# # The game is simple and interactive, providing immediate feedback on the result of the coin toss.  
